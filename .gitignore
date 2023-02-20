@@ -1,0 +1,12 @@
+.idea
+.build
+.DS_Store
+.composer
+.phpunit.result.cache
+
+.env
+/var
+/vendor
+
+/docker/postgresql-data
+/logs/
